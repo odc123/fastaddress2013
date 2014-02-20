@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Dimensions>
+    <Description> - Default - </Description>
+    <Rows>7</Rows>
+    <Cols>2</Cols>
+    <TM>60</TM>
+    <LM>25</LM>
+    <H>157</H>
+    <W>386</W>
+    <V>0</V>
+    <G>10</G>
+    <Pad>10</Pad>
+  </Dimensions>
+  <Settings>
+    <LastUsed>0</LastUsed>
+    <Alignment>Left</Alignment>
+  </Settings>
+  <Font>
+    <Name>Tahoma</Name>
+    <Size>12.75</Size>
+    <Bold>False</Bold>
+    <Italic>False</Italic>
+  </Font>
+</NewDataSet>
